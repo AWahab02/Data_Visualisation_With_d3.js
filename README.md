@@ -13,12 +13,12 @@ These data types were used to display the yearly trend of birdstrikes from 1990 
 ## Graph
 
 A graph with node-leaf graph was used to determine the impact the birdstrikes had on the planes in different airports around America
-<br>
+<br></br>
 ![graph](https://user-images.githubusercontent.com/114500718/227630094-172d92ae-f226-4fcc-81fb-e7157fa8579f.gif)
 
 
 ## N-ary Tree
 
 A tree was used to show the different models of aircrafts affected by birdstrikes in various states in America
-<br />
+<br></br>
 ![Tree](https://user-images.githubusercontent.com/114500718/227630242-cefb4f16-e5c2-4062-8cfd-1312b513d37f.gif)
